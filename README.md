@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Mountain Biking! I'm a giant nerd when it comes to all things biking, components and trails! 
 - 📫 How to reach me: mmunkhbold94@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I love the music of the Grateful Dead!
 
 ---
 
