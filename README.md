@@ -55,6 +55,4 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=mmuugii
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmuugii&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
